@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Alist的协议:地址:端口">
+        <setting id="scheme" type="labelenum" label="协议" values="http|https" default="http"/>
+        <setting id="Url" type="select" label="地址" values="43.136.50.202|43.139.28.114|43.143.105.56|47.106.218.133|47.98.119.174|49.232.211.230" default="121.37.158.73"/>
+        <setting id="Port" type="text" label="端口" default="5245"/>
+    </category>
+</settings>

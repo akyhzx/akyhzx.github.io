@@ -1,0 +1,2 @@
+    if url:
+        xbmc.Player().play(url, listitem, windowed=False)
