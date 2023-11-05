@@ -55,8 +55,8 @@ INSERT INTO x_setting_items VALUES('site_title','我的小雅 Alist','','string'
 INSERT INTO x_setting_items VALUES('announcement','','','text','',1,0);
 INSERT INTO x_setting_items VALUES('pagination_type','pagination','','select','all,pagination,load_more,auto_load_more',1,0);
 INSERT INTO x_setting_items VALUES('default_page_size','500','','number','',1,0);
-INSERT INTO x_setting_items VALUES('logo','http://192.168.6.1/res/logo.png','','text','',2,0);
-INSERT INTO x_setting_items VALUES('favicon','http://192.168.6.1/res/favicon.png','','string','',2,0);
+INSERT INTO x_setting_items VALUES('logo','http://192.168.3.80:81/xiaoya/logo.png','','text','',2,0);
+INSERT INTO x_setting_items VALUES('favicon','http://192.168.3.80:81/xiaoya/favicon.png','','string','',2,0);
 INSERT INTO x_setting_items VALUES('main_color','#1890ff','','string','',2,0);
 INSERT INTO x_setting_items VALUES('home_icon','🏠','','string','',2,0);
 INSERT INTO x_setting_items VALUES('home_container','max_980px','','select','max_980px,hope_container',2,0);
